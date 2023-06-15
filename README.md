@@ -1,3 +1,8 @@
+#Project demo
+#Project file structure
+![Screenshot 2023-06-15 111318](https://github.com/krishtechn/blogapp/assets/88832201/f80a7e92-234d-45b5-976c-3d0802b7845e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
